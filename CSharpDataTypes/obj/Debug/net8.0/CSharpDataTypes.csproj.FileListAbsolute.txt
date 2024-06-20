@@ -1,0 +1,11 @@
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/CSharpDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/CSharpDataTypes.AssemblyInfoInputs.cache
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/CSharpDataTypes.AssemblyInfo.cs
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/CSharpDataTypes.csproj.CoreCompileInputs.cache
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/bin/Debug/net8.0/CSharpDataTypes.deps.json
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/bin/Debug/net8.0/CSharpDataTypes.dll
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/bin/Debug/net8.0/CSharpDataTypes.pdb
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/CSharpDataTypes.dll
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/refint/CSharpDataTypes.dll
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/CSharpDataTypes.pdb
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/ref/CSharpDataTypes.dll

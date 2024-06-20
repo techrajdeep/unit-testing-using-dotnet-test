@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/CSharpDataTypes.csproj": {}
+  },
+  "projects": {
+    "/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/CSharpDataTypes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/CSharpDataTypes.csproj",
+        "projectName": "CSharpDataTypes",
+        "projectPath": "/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/CSharpDataTypes.csproj",
+        "packagesPath": "/Users/rajdeep.sahoothoughtworks.com/.nuget/packages/",
+        "outputPath": "/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rajdeep.sahoothoughtworks.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
