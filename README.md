@@ -23,3 +23,9 @@ dotnet sln add ./PrimeService.Tests/PrimeService.Tests.csproj
 ```
 
 [Official doc](https://learn.microsoft.com/en-gb/dotnet/core/testing/unit-testing-with-dotnet-test)
+
+## For testing
+
+```
+dotnet test
+```
