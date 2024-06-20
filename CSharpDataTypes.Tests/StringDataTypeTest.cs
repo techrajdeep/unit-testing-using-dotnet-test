@@ -24,6 +24,7 @@ namespace CSharpDataTypesTests{
             // When
             var result=data.fullName("Abc","Def");
             // Then
+            Assert.NotNull(result);
             Assert.False(string.IsNullOrEmpty(result));
         }
     }
