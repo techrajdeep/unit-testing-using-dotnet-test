@@ -9,3 +9,4 @@
 /Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/refint/CSharpDataTypes.dll
 /Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/CSharpDataTypes.pdb
 /Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/ref/CSharpDataTypes.dll
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes/obj/Debug/net8.0/CSharpDataTypes.sourcelink.json

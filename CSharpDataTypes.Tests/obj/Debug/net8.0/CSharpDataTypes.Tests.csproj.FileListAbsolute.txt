@@ -99,3 +99,4 @@
 /Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes.Tests/obj/Debug/net8.0/CSharpDataTypes.Tests.pdb
 /Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes.Tests/obj/Debug/net8.0/CSharpDataTypes.Tests.genruntimeconfig.cache
 /Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes.Tests/obj/Debug/net8.0/ref/CSharpDataTypes.Tests.dll
+/Users/rajdeep.sahoothoughtworks.com/Documents/csharp/unit-testing-using-dotnet-test/CSharpDataTypes.Tests/obj/Debug/net8.0/CSharpDataTypes.Tests.sourcelink.json
