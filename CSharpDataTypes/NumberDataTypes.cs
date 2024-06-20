@@ -12,11 +12,6 @@ namespace CSharpDataType{
             return a + b;
         }
     }
-    public class StringDataTypes{
-        public string add(string a, string b){
-            return a + b;
-        }
-    }
 }
 
 
