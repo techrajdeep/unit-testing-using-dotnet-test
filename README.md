@@ -1,15 +1,20 @@
-# This is for learning C# with tests using Xunit test
+# Learning C# with tests using Xunit test framework.
 
-## in progress...
+After taking code pull run below command.
 
 ```
-commands:
+dotnet build
+```
+
+## Basic commands:
+
+```
 dotnet —version
 dotnet new - - list
 dotnet new console -n StartingProject
 ```
 
-## Testing setup using Xunit
+## Testing setup using Xunit : [ Check official doc](https://learn.microsoft.com/en-gb/dotnet/core/testing/unit-testing-with-dotnet-test)
 
 ```
 dotnet new sln -o unit-testing-using-dotnet-test
@@ -22,9 +27,7 @@ dotnet add ./PrimeService.Tests/PrimeService.Tests.csproj reference ./PrimeServi
 dotnet sln add ./PrimeService.Tests/PrimeService.Tests.csproj
 ```
 
-[Official doc](https://learn.microsoft.com/en-gb/dotnet/core/testing/unit-testing-with-dotnet-test)
-
-## For testing
+## For testing:
 
 ```
 dotnet test
