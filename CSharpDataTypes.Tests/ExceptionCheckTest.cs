@@ -6,7 +6,7 @@ namespace CSharpDataTypesTests
         public void Test_ExceptionForNullParam()
         {
             var c = new Buyer();
-            Assert.Throws<ArgumentException>(() => c.getOrder(null));
+            Assert.Throws<ArgumentException>(() => c.getOrderByName(null));
         }
         [Fact]
         public void Test_Validate_exception_value()
@@ -14,7 +14,7 @@ namespace CSharpDataTypesTests
             // Given
              var c = new Buyer();
             // When
-            var result = Assert.Throws<ArgumentException>(()=>c.getOrder(""));
+            var result = Assert.Throws<ArgumentException>(()=>c.getOrderByName(""));
             // Then
             Assert.Equal("Hello", result.Message);
         }

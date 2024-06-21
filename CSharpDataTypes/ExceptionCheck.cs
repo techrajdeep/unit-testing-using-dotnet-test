@@ -1,8 +1,9 @@
+using System;
 namespace CSharpDataType
 {
     public class Buyer 
     {
-        public int getOrder(string? name){
+        public virtual int getOrderByName(string? name){
             if(string.IsNullOrEmpty(name)){
                 throw new ArgumentException("Hello");
             }
