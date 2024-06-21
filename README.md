@@ -31,4 +31,6 @@ dotnet sln add ./PrimeService.Tests/PrimeService.Tests.csproj
 
 ```
 dotnet test
+dotnet test --filter "Category=Fibo"
+dotnet test --filter "Category=Unit | Category=Integration"
 ```

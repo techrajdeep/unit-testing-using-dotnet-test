@@ -6,11 +6,13 @@ namespace CSharpDataType.Tests
     public class CollectionDataTypeTest
     {
         [Fact]
+        [Trait("Category", "Fibo")] 
         public void TestCollectionDataType(){
             var data = new CollectionDataType();
             Assert.All(data.fibbonacci, x => Assert.NotEqual(0,x));
         }
         [Fact]
+        [Trait("Category", "Fibo")] 
         public void Test_Fibbonacci_List_Contains13()
         {
             // Given
@@ -21,6 +23,7 @@ namespace CSharpDataType.Tests
             Assert.Contains(13,data.fibbonacci);
         }
         [Fact]
+        [Trait("Category", "Fibo")] 
         public void Test_Fibbonacci_List_Not_Contains4()
         {
             // Given
